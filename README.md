@@ -28,4 +28,4 @@ Creating reusable custom hooks and utility functions for data processing
 Providing a seamless and modern UX with smooth loading and responsive design
 
 💻 The project is open-source — feel free to check it out:
-📎 [Insert GitHub or demo link here]
+📎 https://graphqldolevp.netlify.app/
